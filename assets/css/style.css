@@ -1,0 +1,62 @@
+.instruction {
+	border: 2px solid black;
+	padding: 2%;
+	background-color: white; 
+	opacity: 0.7; 
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+	color: darkblue;
+}
+
+.randomNumber {
+	border: 2px solid black;
+	padding: 3%;
+	background-color: white; 
+	opacity: 0.7; 
+	color: green;
+	font-size: 200%; 
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.totalWL { 
+	border: 2px solid black;
+	padding: 2%; 
+	background-color: white; 
+	opacity: 0.7; 
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+ }
+
+ .totalScore {
+ 	border: 2px solid black; 
+ 	background-color: white; 
+	opacity: 0.7; 
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+	color: darkblue;
+
+ }
+
+ .scoreDisplay {
+ 	border: 2px solid black;
+	padding: 3%; 
+	background-color: white; 
+	opacity: 0.7; 
+	color: green;
+	font-size: 200%;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; 
+ }
+
+ .wallpaper { 
+	background-image: url("/Users/freddyz/Documents/unit-4-game/assets/images/wallpaper.jpg");
+	background-size: 100%;
+ }
+
+ .header { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; 
+    font-size: 60px;
+    color: white;
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+	color: darkblue;
+  }
+  
